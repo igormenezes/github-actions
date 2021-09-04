@@ -1,3 +1,3 @@
 export function main(event) {
-    return {"status": 400, "message": "Sucesso!"}
+    return {"status": 200, "message": "Sucesso!"}
 }
